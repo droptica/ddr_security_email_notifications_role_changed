@@ -1,0 +1,17 @@
+{
+    "name": "droptica/ddr_security_email_notifications_role_changed",
+    "type": "drupal-recipe",
+    "description": "Droptica’s Drupal Recipes: Security Email Notifications - Role Changed",
+    "keywords": ["recipe", "Drupal recipes", "Drupal recipe"],
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "drupal/core": ">=10.3",
+        "drupal/role_watchdog": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Droptica",
+            "role": "Company"
+        }
+    ]
+}

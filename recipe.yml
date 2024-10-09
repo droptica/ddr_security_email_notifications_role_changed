@@ -1,0 +1,11 @@
+name: 'DDR Security Email Notifications - Role changed'
+type: 'Droptica’s Drupal Recipes'
+description: "Automatic notifications and logging of user role changes"
+
+install:
+  - role_watchdog
+  - user
+
+config:
+  import:
+    role_watchdog: '*'
