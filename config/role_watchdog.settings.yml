@@ -1,6 +1,0 @@
-role_watchdog_monitor_roles:
-  authenticated: authenticated
-  content_editor: content_editor
-  administrator: administrator
-role_watchdog_notify_email: email@example.com
-role_watchdog_use_watchdog: true
